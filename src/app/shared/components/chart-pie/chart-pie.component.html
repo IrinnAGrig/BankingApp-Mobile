@@ -11,7 +11,7 @@
         <div class="chart-container">
             <div class="center-chart">
                 <h3>{{selectedElement.value}}%</h3>
-                <p>{{selectedElement.label}}</p>
+                <p>{{selectedElement.label | translate}}</p>
             </div>
             <canvas id="MyChart">{{ chart }}</canvas>
         </div>

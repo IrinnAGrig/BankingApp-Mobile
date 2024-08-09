@@ -1,0 +1,34 @@
+:root {
+    --background-color: #ffffff;
+    --text-color: #1E1E1E;
+    --element-style-color: #f4f4f4;
+    --image-fill: invert(0%);
+    --nav-color: #f4f4f4;
+    --slider-color: #ffffff;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode {
+    --background-color: rgba(22,22,34,255); 
+    --text-color: white; 
+    --element-style-color: #1e1e2d;
+    --image-fill: invert(100%);
+    --nav-color: #1e1e2d;
+    --slider-color: #1e1e2d;
+}
+
+.light-mode {
+    --background-color: #ffffff; 
+    --text-color: #1E1E1E; 
+    --element-style-color: #f4f4f4;
+    --image-fill: invert(0%);
+    --nav-color: #f4f4f4;
+    --slider-color: #ffffff;
+}

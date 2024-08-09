@@ -19,7 +19,6 @@ For starting project: npm start
 ![Screenshot 2024-08-09 103050](https://github.com/user-attachments/assets/a4ad12f6-130f-42bc-add4-e89627092d38)
 ![Screenshot 2024-08-09 103044](https://github.com/user-attachments/assets/1cd9c061-e2fa-4697-a6cc-1f824bd01315)
 ![Screenshot 2024-08-09 103037](https://github.com/user-attachments/assets/f0ad0ace-d92f-4eb2-a61d-bc7b61f78cc6)
-![Screenshot 2024-08-09 103022](https://github.com/user-attachments/assets/0a08f8dd-b636-4e92-a881-7e15cf127f88)
 ![Screenshot 2024-08-09 103011](https://github.com/user-attachments/assets/516cf1ab-b052-4b36-9111-f1e6173b19f4)
 ![Screenshot 2024-08-09 102959](https://github.com/user-attachments/assets/186a4216-8446-4cea-88c1-91c8d90c742e)
 ![Screenshot 2024-08-09 102950](https://github.com/user-attachments/assets/ca6cbd6f-2692-4ec3-9a88-2d6fc9b1389d)
